@@ -1,7 +1,7 @@
 # MERN_AirBnb_like_app
  post and book listings to stay at. 
- For the app to work i would have to add your ip in my mongoDB cluster so you can connect to it, therefore this is just a showcase of my work
-
+ For the app to work i would have to add your ip in my mongoDB cluster so you can connect to it, therefore this is just a showcase of my work, but feel free to create your own cluster and update the code.
+ 
 I did not focus too much on the design but mainly on the functionalities.
 
 Our profile page shows us the listings that we created and those that we have booked ourselves.
